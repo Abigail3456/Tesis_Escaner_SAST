@@ -1,0 +1,5 @@
+# El proyecto utiliza únicamente módulos incluidos
+# en la biblioteca estándar de Python.
+
+# Versión mínima recomendada
+python>=3.10
